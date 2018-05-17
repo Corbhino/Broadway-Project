@@ -2,9 +2,19 @@ body{
   text-align: center;
 }
 
-#home, h1{
+#Home, h1{
   font-family: Helvetica;
   font-size: 70px;
   font-weight: bold;
+  color: white;
+}
+
+#Home{
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+}
+
+#Home, p{
+  font-family: Helvetica;
+  font-size: 16px;
   color: white;
 }
