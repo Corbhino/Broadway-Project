@@ -1,0 +1,10 @@
+body{
+  text-align: center;
+}
+
+#home, h1{
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
